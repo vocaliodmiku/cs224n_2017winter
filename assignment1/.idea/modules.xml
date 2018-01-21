@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$USER_HOME$/PycharmProjects/2/.idea/2.iml" filepath="$USER_HOME$/PycharmProjects/2/.idea/2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/assignment1.iml" filepath="$PROJECT_DIR$/.idea/assignment1.iml" />
+      <module fileurl="file://$USER_HOME$/PycharmProjects/hierarchical_lstm_with_target/.idea/hierarchical_lstm_with_target.iml" filepath="$USER_HOME$/PycharmProjects/hierarchical_lstm_with_target/.idea/hierarchical_lstm_with_target.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../霖铠/.idea/zhong.iml" filepath="$PROJECT_DIR$/../霖铠/.idea/zhong.iml" />
+    </modules>
+  </component>
+</project>
